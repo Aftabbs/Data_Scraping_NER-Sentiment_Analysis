@@ -1,0 +1,24 @@
+# Data_Scraping_NER-Sentiment_Analysis
+This project is aimed at scraping data from websites and then performing Named Entity Recognition (NER) and Sentiment Analysis on the scraped data. The project has been developed using Jupyter Notebook and several libraries including BeautifulSoup, Spacy, and TextBlob.
+
+Prerequisites
+The following libraries must be installed before running the code:
+
+BeautifulSoup
+Os
+Requests
+Matplotlib
+Seaborn
+
+
+Usage
+The code can be executed by opening the Jupyter Notebook file and running the cells. 
+The user can change the URL to be scraped and can also change the parameters of NER and Sentiment Analysis as per their requirements.
+
+Results
+The code outputs the scraped data, the entities recognized in the data and their types, and the sentiment scores of the data. 
+The results are plotted using Matplotlib and Seaborn libraries.
+
+Conclusion
+The project demonstrates the use of Jupyter Notebook in performing Data Scraping, NER & Sentiment Analysis in a simple and efficient manner. 
+The user can easily change the parameters and URL to perform the analysis on different data sets.
